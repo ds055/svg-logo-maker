@@ -1,7 +1,6 @@
 # SVG Logo Maker
 
-<!-- TODO: Link to video -->
-[Link to Video]()
+[Link to Video](https://drive.google.com/file/d/1h5lyhLXxMzBWi_EADXSlqe_Wp7J--bxD/view)
 
 [Sample svg created with App](./sampleLogo.svg)
 
