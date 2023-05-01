@@ -25,7 +25,7 @@ This app creates an svg logo based on user inputs regarding shape, background co
 * Thanks for using my app!
 
 ## Testing
-* To run tests, type `npm test` in the terminal while running from the SVG-LOGO-MAKER folder
+* To run tests, type `npm test` in the terminal while running from the `svg-logo-maker` folder
 
 ## References
 [Reference for `validation` in text length prompt](https://stackoverflow.com/questions/57321266/how-to-test-inquirer-validation)
